@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gradle.junit.selenium.JuiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-25T20:30:09" hostname="Naveens-MacBook-Pro.local" time="6.341">
+  <properties/>
+  <testcase name="loginAndPostProductReviewViaUi()" classname="gradle.junit.selenium.JuiceTest" time="4.578"/>
+  <testcase name="loginViaAPI()" classname="gradle.junit.selenium.JuiceTest" time="1.763"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 100.0.4896.60 (6a5d10861ce8de5fce22564658033b43cb7de047-refs/branch-heads/4896@{#875}) on port 55048
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr 25, 2022 9:30:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Apr 25, 2022 9:30:09 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 100, so returning the closest version found: 99
+Apr 25, 2022 9:30:09 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 100 of 99
+]]></system-err>
+</testsuite>
